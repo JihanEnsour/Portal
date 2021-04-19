@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "433564957846",
+    "firebase_url": "https://portal-quqa.firebaseio.com",
+    "project_id": "portal-quqa",
+    "storage_bucket": "portal-quqa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433564957846:android:db885e8a5cdf1ee2",
+        "android_client_info": {
+          "package_name": "com.quqa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433564957846-re61hs05a7fai3me28ge59ub8v273v9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTKW95HEfDamrlAgFnEOZr0LZs3v8strw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433564957846-re61hs05a7fai3me28ge59ub8v273v9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
