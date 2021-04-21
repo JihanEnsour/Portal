@@ -1,2 +1,2 @@
-# Portal Mobile App -
+# Portal Mobile App
 # Serves FAInvest  Company's Employees'
